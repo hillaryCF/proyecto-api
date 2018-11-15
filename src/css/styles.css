@@ -1,0 +1,15 @@
+button {
+  background-color: rgb(235, 196, 22);
+  width: 30%;
+  height: 30px;
+  margin-top: 6px;
+}
+button:hover img{
+
+}
+.imagenes img{
+  margin-top: 3px;
+  width: 30%;
+}
+
+
